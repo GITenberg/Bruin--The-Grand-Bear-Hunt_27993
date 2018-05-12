@@ -1,0 +1,45 @@
+_repo: Bruin--The-Grand-Bear-Hunt_27993
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Zwecker, Johann Baptist
+    alias: Zwecker
+    birthdate: 1814
+    deathdate: 1876
+    gutenberg_agent_id: '33063'
+    url: http://www.gutenberg.org/2009/agents/33063
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: A Russian nobleman, in an attempt to broaden their horizons, charges
+  his two sons to travel east or west around the world and bring him the skin of every
+  variety of bear with the only condition that they kill it with their own hands.
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Hunting -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Bears -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages around the world -- Fiction'
+title: 'Bruin: The Grand Bear Hunt'
+url: http://www.gutenberg.org/ebooks/27993
